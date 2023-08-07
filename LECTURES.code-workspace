@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "files.autoSave": "afterDelay",
+    "trailing-spaces.trimOnSave": true,
+    "python.languageServer": "Pylance"
+  }
+}
